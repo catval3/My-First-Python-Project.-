@@ -4,6 +4,8 @@
 
 #### Description:
 
+**Note:** This program was written by me when I had no prior experience in bioinformatics. I was testing my Python skills by creating a program that I thought was related to bioinformatics. I later acquired more knowledge and experience in bioinformatics programming.
+
 DNA Sequence Analyzer is a Python program that analyzes DNA sequences stored in FASTA files. I created this project to practice Python programming while applying it to a topic related to my background in biochemistry. The program allows the user to provide a FASTA file and perform several analyses on the DNA sequence, including nucleotide counting, nucleotide percentage calculation, motif searching, and translation into RNA and protein sequences.
 
 FASTA is a common file format used to store biological sequences. It contains a header that provides information about the sequence, followed by the actual nucleotide sequence. In this project, the program reads the FASTA file, separates the header from the DNA sequence, and extracts the gene name from the header. The extracted gene name is then used when creating the protein output file.
