@@ -1,0 +1,23 @@
+aa_codons_dict = {
+    "Ala": ["GCA", "GCC", "GCG", "GCT"],
+    "Asn": ["AAC", "AAT"],
+    "Asp": ["GAC", "GAT"],
+    "Cys": ["TGC", "TGT"],
+    "Glu": ["GAA", "GAG"],
+    "Phe": ["TTC", "TTT"],
+    "Gly": ["GGA", "GGC", "GGG", "GGT"],
+    "His": ["CAC", "CAT"],
+    "Ile": ["ATA", "ATC", "ATT"],
+    "Lys": ["AAA", "AAG"],
+    "Leu": ["CTA", "CTC", "CTG", "CTT", "TTA", "TTG"],
+    "Met": ["ATG"],
+    "Pro": ["CCA", "CCC", "CCG", "CCT"],
+    "Gln": ["CAA", "CAG"],
+    "Arg": ["AGA", "AGG", "CGA", "CGC", "CGG", "CGT"],
+    "Ser": ["AGC", "AGT", "TCA", "TCC", "TCG", "TCT"],
+    "Thr": ["ACA", "ACC", "ACG", "ACT"],
+    "Val": ["GTA", "GTC", "GTG", "GTT"],
+    "Trp": ["TGG"],
+    "Tyr": ["TAC", "TAT"],
+    "Stop": ["TAA", "TAG", "TGA"]
+}
